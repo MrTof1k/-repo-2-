@@ -1,0 +1,2 @@
+В ветке master в файле readme добавили к 1й строчке: with nice buttons on his jacket (buttons branch)
+В ветке demo первая строчка оканчивается на "."
