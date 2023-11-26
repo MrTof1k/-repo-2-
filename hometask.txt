@@ -1,2 +1,12 @@
 В ветке master в файле readme добавили к 1й строчке: with nice buttons on his jacket (buttons branch)
 В ветке demo первая строчка оканчивается на "."
+
+create file hometask.txt
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+Merge remote-tracking branch 'origin/hat'
+fix readme
+dots
+Merge branch 'boots' into release
+heat added
+init
